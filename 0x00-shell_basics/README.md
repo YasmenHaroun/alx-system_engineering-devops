@@ -7,3 +7,9 @@ Display current directory contents, long format, hidden files,with user and grou
 creates a directory named in the tmp directory
 Move the file betty from /tmp/ to /tmp/my first directory
 Delete the file betty
+Bye bye My first directory 
+Back to the future
+Lists
+File type
+We are symbols, and inhabit symbols
+Copy HTML files
