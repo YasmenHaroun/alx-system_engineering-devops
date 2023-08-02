@@ -6,3 +6,4 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents, long format, hidden files,with user and group IDs displayed numerically.
 creates a directory named in the tmp directory
 Move the file betty from /tmp/ to /tmp/my first directory
+Delete the file betty
